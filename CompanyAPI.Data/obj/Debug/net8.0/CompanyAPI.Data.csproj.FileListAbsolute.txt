@@ -1,0 +1,17 @@
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\bin\Debug\net8.0\CompanyAPI.Data.deps.json
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\bin\Debug\net8.0\CompanyAPI.Data.runtimeconfig.json
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\bin\Debug\net8.0\CompanyAPI.Data.dll
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\bin\Debug\net8.0\CompanyAPI.Data.pdb
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\bin\Debug\net8.0\CompanyAPI.Core.dll
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\bin\Debug\net8.0\CompanyAPI.Core.pdb
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\obj\Debug\net8.0\CompanyAPI.Data.csproj.AssemblyReference.cache
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\obj\Debug\net8.0\CompanyAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\obj\Debug\net8.0\CompanyAPI.Data.AssemblyInfoInputs.cache
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\obj\Debug\net8.0\CompanyAPI.Data.AssemblyInfo.cs
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\obj\Debug\net8.0\CompanyAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\obj\Debug\net8.0\CompanyA.999E2C45.Up2Date
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\obj\Debug\net8.0\CompanyAPI.Data.dll
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\obj\Debug\net8.0\refint\CompanyAPI.Data.dll
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\obj\Debug\net8.0\CompanyAPI.Data.pdb
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\obj\Debug\net8.0\CompanyAPI.Data.genruntimeconfig.cache
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Data\obj\Debug\net8.0\ref\CompanyAPI.Data.dll

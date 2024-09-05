@@ -1,0 +1,15 @@
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\bin\Debug\net8.0\CompanyAPI.Services.deps.json
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\bin\Debug\net8.0\CompanyAPI.Services.dll
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\bin\Debug\net8.0\CompanyAPI.Services.pdb
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\bin\Debug\net8.0\CompanyAPI.Core.dll
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\bin\Debug\net8.0\CompanyAPI.Core.pdb
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\obj\Debug\net8.0\CompanyAPI.Services.csproj.AssemblyReference.cache
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\obj\Debug\net8.0\CompanyAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\obj\Debug\net8.0\CompanyAPI.Services.AssemblyInfoInputs.cache
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\obj\Debug\net8.0\CompanyAPI.Services.AssemblyInfo.cs
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\obj\Debug\net8.0\CompanyAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\obj\Debug\net8.0\CompanyA.FEC88801.Up2Date
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\obj\Debug\net8.0\CompanyAPI.Services.dll
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\obj\Debug\net8.0\refint\CompanyAPI.Services.dll
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\obj\Debug\net8.0\CompanyAPI.Services.pdb
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Services\obj\Debug\net8.0\ref\CompanyAPI.Services.dll

@@ -1,0 +1,11 @@
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Core\bin\Debug\net8.0\CompanyAPI.Core.deps.json
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Core\bin\Debug\net8.0\CompanyAPI.Core.dll
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Core\bin\Debug\net8.0\CompanyAPI.Core.pdb
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Core\obj\Debug\net8.0\CompanyAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Core\obj\Debug\net8.0\CompanyAPI.Core.AssemblyInfoInputs.cache
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Core\obj\Debug\net8.0\CompanyAPI.Core.AssemblyInfo.cs
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Core\obj\Debug\net8.0\CompanyAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Core\obj\Debug\net8.0\CompanyAPI.Core.dll
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Core\obj\Debug\net8.0\refint\CompanyAPI.Core.dll
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Core\obj\Debug\net8.0\CompanyAPI.Core.pdb
+C:\Users\omarf\source\repos\CompanyAPI\CompanyAPI.Core\obj\Debug\net8.0\ref\CompanyAPI.Core.dll
